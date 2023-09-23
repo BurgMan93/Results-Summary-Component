@@ -37,10 +37,10 @@
 
     --gradient-to-transparent: linear-gradient(
         var(--clr-pr-hsl-500), 
-        hsl(var(--clr-sec-hsl-500), 0);
+        hsl(var(--clr-sec-hsl-500), 0));
 
     --font-family-default: 'HankenGrotesk', sans-serif;
-    
+
     --fw-regular: 500;
     --fw-bold: 700;
     --fw-black: 800;
